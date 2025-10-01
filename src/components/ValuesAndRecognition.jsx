@@ -98,7 +98,7 @@ const recognitions = [
 
 export default function ValuesAndRecognition() {
   return (
-    <section className="bg-[#f9f6f1] py-20">
+    <section className="bg-gradient-to-b from-[#f9f6f1] via-[#f9f6f1] to-white py-20">
       <div className="max-w-7xl mx-auto px-6">
         <h2 className="text-5xl font-semibold text-center mb-4">Our Journey Through Time</h2>
         <p className="text-xl text-center text-black mb-12">Discover exceptional experiences through testimonials from our satisfied customers.</p>
