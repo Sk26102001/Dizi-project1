@@ -17,7 +17,7 @@ import TeamMembers from "../components/TeamMembers";
 export default function AboutUs() {
   return (
     <div>
-      {/* <Navbar /> */}
+     
       <Hero />
       <Partners />
       <MissionVision />

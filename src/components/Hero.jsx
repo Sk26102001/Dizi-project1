@@ -4,16 +4,7 @@ export default function Hero() {
       <h1 className="text-6xl font-semibold mb-2">About Us</h1>
       <p className="text-gray-600 text-xl mt-5">Discover our story, our mission, and our passion for creativity and innovation.</p>
 
-      {/* <div className="max-w-7xl mx-auto mt-14  bg-white rounded-2xl shadow-md overflow-hidden">
-        <div className="flex flex-col md:flex-row ">
-          <div className="p-6 flex flex-col justify-center text-left ml-13">
-            <button className=" bg-blue-100 text-blue-700">REVENEW GROWTH</button>
-            <h2 className="text-5xl font-medium mt-2">Transforming A Small Retailer With E–Commerce Integration</h2>
-            <p className="text-gray-500 text-xl mt-4">it is a long established fact that a reader will be distracted by the readable content of</p>
-          </div>
-          <img src="https://bytewave-next.vercel.app/_next/image?url=%2Fimages%2Fblog%2Fitem4.png&w=3840&q=75" alt="case" className="md:w-1/2 object-cover " />
-        </div>
-      </div> */}
+
 
       <div className="max-w-7xl mx-auto mt-14 bg-white rounded-2xl shadow-md overflow-hidden">
   <div className="flex flex-col md:flex-row items-center">
