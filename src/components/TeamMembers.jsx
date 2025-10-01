@@ -50,12 +50,12 @@ import React from "react";
 import { FaLinkedinIn } from "react-icons/fa";
 
 const teamMembers = [
-  { name: "Annette Black", role: "Graphic Designer", image: "https://bytewave-next.vercel.app/_next/image?url=%2Fimages%2Favatar%2FIMG-4.png&w=3840&q=75", linkedin: "#" },
-  { name: "Jane Cooper", role: "CEM - digiNova", image: "https://bytewave-next.vercel.app/_next/image?url=%2Fimages%2Favatar%2FIMG-5.png&w=3840&q=75", linkedin: "#" },
-  { name: "Brooklyn Simmons", role: "Photographer", image: "https://bytewave-next.vercel.app/_next/image?url=%2Fimages%2Favatar%2FIMG-6.png&w=3840&q=75", linkedin: "#" },
-  { name: "Theresa Webb", role: "CEM - digiNova", image: "https://bytewave-next.vercel.app/_next/image?url=%2Fimages%2Favatar%2FIMG-7.png&w=3840&q=75", linkedin: "#" },
-  { name: "Kathryn Murphy", role: "Photographer", image: "https://bytewave-next.vercel.app/_next/image?url=%2Fimages%2Favatar%2FIMG-8.png&w=3840&q=75", linkedin: "#" },
-  { name: "Cameron Williamson", role: "CEM - digiNova", image: "https://bytewave-next.vercel.app/_next/image?url=%2Fimages%2Favatar%2FIMG-9.png&w=3840&q=75", linkedin: "#" },
+  { name: "Annette Black", role: "Graphic Designer", image: "./IMG-4.webp", linkedin: "#" },
+  { name: "Jane Cooper", role: "CEM - digiNova", image: "./IMG-5.webp", linkedin: "#" },
+  { name: "Brooklyn Simmons", role: "Photographer", image: "./IMG-6.webp", linkedin: "#" },
+  { name: "Theresa Webb", role: "CEM - digiNova", image: "./IMG-7.webp", linkedin: "#" },
+  { name: "Kathryn Murphy", role: "Photographer", image: "./IMG-8.webp", linkedin: "#" },
+  { name: "Cameron Williamson", role: "CEM - digiNova", image: "./IMG-9.webp", linkedin: "#" },
 ];
 
 export default function TeamMembers() {
